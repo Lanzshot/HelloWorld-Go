@@ -1,2 +1,4 @@
 # HelloWorld-Go
-GOschool Practice
+GOschool Practice for GoMSvc2
+
+Hello everyone!!!
